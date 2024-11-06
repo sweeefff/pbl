@@ -139,3 +139,15 @@
   .by-name {
       font-weight: 700;
   }
+
+  /*category*/
+  .category-section {
+    padding: 20px;
+}
+.category-section h4 {
+    font-size: 18px;
+}
+.category-section .see-more {
+    float: right;
+    font-size: 14px;
+}
